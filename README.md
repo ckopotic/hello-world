@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hello... 
+Checking out the 100 day challange
